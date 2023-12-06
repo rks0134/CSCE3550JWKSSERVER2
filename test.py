@@ -2,9 +2,6 @@ import unittest
 import requests
 import os
 
-# Cody Quinn Hogan |    cqh0003                   |    11342946
-# CSCE 3550.001    |    Project 1: JWKS Server    |    test_suite.py
-# codyhogan2@my.unt.edu
 
 total_ran = 0
 
